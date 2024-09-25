@@ -22,7 +22,7 @@ Here is a brief description of the key features in the dataset:
 
 * age: Age in years
 * sex: (1 = male; 0 = female)
-Refer to the data/data-dictionary folder for complete information on the features.
+Refer to the `data/data-dictionary` folder for complete information on the features.
 
 #### Viewing the Notebook
 You can view and interact with this notebook online without having to download it. There are two options for this:
